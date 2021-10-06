@@ -3,42 +3,6 @@
     
 }
 
-body{
-    background: gray;
-}
-
-.line-1 {
-    color: blue;
-    border: 3px solid rgb(94, 85, 85);
-    border-radius: 30px;
-    display: block;
-    width: 56%;
-
-}
-
-.line-2 {
-    background-color: #FFFDD0;
-    border: 3px solid rgb(94, 85, 85);
-    border-radius: 30px;
-    display: block;
-    width: 56%;
-    
-}
-
-.line-3{
-    border: 3px solid rgb(94, 85, 85);
-    border-radius: 30px;
-    display: block;
-    width: 56%;
-}
-
-.line-4{
-    text-transform: uppercase;
-    border: 3px solid rgb(94, 85, 85);
-    border-radius: 30px;
-    display: block;
-    width: 56%;
-}
 
 
 
