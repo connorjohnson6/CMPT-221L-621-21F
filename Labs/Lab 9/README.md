@@ -19,3 +19,5 @@ anything else we wantto be on this page to make it pretty
 App.js:
 - This is the file that will contain all links and make the use and listen to connect our website to a localhost online.
 
+You are also going to have to buy and route a DNS to a websever. This DNS can be purchased from places like go-daddy, and the webservers are provided by places like AWS
+
